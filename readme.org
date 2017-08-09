@@ -1,0 +1,5 @@
+* Site Randomizer
+You hit it, it redirects you to some other site. Look it's really that simple. 
+
+Made so that when I hit up reddit or some other garbage site it turns it into something useful. 
+
